@@ -20,6 +20,7 @@ Mr. Ashish Gupta
 Mr. Nisarg B Patel 
 Mr. Voona Sai Tirupati
 Mahalakshmi Muniraj
+Mr. Rishman Singh
 Ms. Manjeet kaur chahal
 Michelle Malcoln
 Mr. Vinay Kumar Molgara
@@ -29,3 +30,4 @@ Mr Arjun Sapkota
 Mr. Aniket Tiwari
 Mr. Rishman Singh   
 Mrs. Harkamal Brar
+
